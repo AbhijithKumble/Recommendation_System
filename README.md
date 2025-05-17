@@ -4,3 +4,5 @@ The system delivers personalized recommendations using modern ML techniques and 
 
 
 Dataset used : https://www.kaggle.com/datasets/azathoth42/myanimelist
+
+Deployment URL: https://anime-recommendation-system9.streamlit.app/
