@@ -19,9 +19,9 @@ st.markdown("""
 
 @st.cache_data
 def load_data():
-    with open("./models/animes.pkl", "rb") as f:
+    with open("./models/content_based_animes.pkl", "rb") as f:
         anime_df = pickle.load(f)
-    with open("./models/top_5_similar.pkl", "rb") as f:
+    with open("./models/top_5_similar_content_based.pkl", "rb") as f:
         top_5_similar = pickle.load(f)
     return anime_df, top_5_similar
 
