@@ -1,3 +1,5 @@
 extracted_data/
 data_zip/
 heavy_models/
+models/collaborative_filtering/collab_filt_final_df_v1.0.pkl
+scraper/all_users_animelist.csv
